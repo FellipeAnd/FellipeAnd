@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=A020F0&text=Fellipe%20Andrey♪♫">
+</h1>
 
-<!--
-**FellipeAnd/FellipeAnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=25&duration=2000&pause=3000&color=D99EF7&width=435&lines=Cloud+Engineer+%7C+Cisco+Engineer">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## sobre mim
+
+<img align="right" height="190" src="https://i.pinimg.com/originals/5a/8a/07/5a8a07e241c0e493055c029ff144dcd2.gif">
+
+Cursando o terceiro semestre de Redes de Computadores no SENAI com foco em Cloud, além disso,
+possuo experiência prática com nuvem AWS e Azure.
+
+Conecte-se Comigo!
+
+<br><br><br>
+
+**"Mesmo nas profundezas dos oceanos mais escuros sempre passa alguma luz." - Arima💡**
+
+---
+
+##Tech Stack 👑 
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=arduino,c,azure,debian,github,discord,linux,windows,instagram,grafana,gmail,aws,git">
+</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white">
+    <img src="https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff">
+    <img src="https://img.shields.io/badge/Opera%20GX-EE2950?logo=operagx&logoColor=fff">
+    <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff">
+    <img src="https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff">
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white">
+    <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff">
+    <img src="https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white">
+    <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff">
+    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white">
+    <img src="https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white">
+    <img src="https://img.shields.io/badge/Mega-%23D90007.svg?logo=mega&logoColor=white">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white">
+    <img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff">
+    <img src="https://img.shields.io/badge/Crunchyroll-F47521?logo=crunchyroll&logoColor=white">
+    <img src="https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white">
+    <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white">
+    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">
+</p>
