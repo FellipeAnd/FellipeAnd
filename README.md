@@ -62,3 +62,6 @@ Conecte-se Comigo!
 | --- | --- |
 | ![CCNA INT](https://img.shields.io/badge/CISCO_Introduction_To_Networks-t?style=flat&logo=cisco&color=black) | Cisco NetAcademy Introduction To Networks |
 | ![AWS_CF](https://img.shields.io/badge/_-AWS_Academy_Cloud_Foundations-t?style=flat&logo=amazonwebservices&logoColor=orange&labelColor=black&color=black&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2F8ac732aa-f26a-44cb-b176-bebfe1552e31%2Fpublic_url) | AWS Academy Cloud Foundations |
+| ![AZURE_CF](https://img.shields.io/badge/SENAI-_Microsoft_Azure_AZ%20900-t?style=flat&labelColor=%23B22222&color=white) | SENAI Microsoft Azure AZ-900 |
+| ![AZURE_CF](https://img.shields.io/badge/SENAI-_Microsoft_Azure_SC%20900-t?style=flat&labelColor=%23B22222&color=white) | SENAI Microsoft Azure SC-900 |
+| ![AZURE_CF](https://img.shields.io/badge/SENAI-_Microsoft_Azure_AI%20900-t?style=flat&labelColor=%23B22222&color=white) | SENAI Microsoft Azure AI-900 |
