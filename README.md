@@ -61,4 +61,4 @@ Conecte-se Comigo!
 | Certificação | Nome |
 | --- | --- |
 | ![CCNA INT](https://img.shields.io/badge/CISCO_Introduction_To_Networks-t?style=flat&logo=cisco&color=black) | Cisco NetAcademy Introduction To Networks |
-| ![AWS_CF](https://img.shields.io/badge/_-AWS_Academy_Cloud_Foundations-t?style=flat&logo=amazonwebservices&logoColor=orange&labelColor=black&color=black) | AWS Academy Cloud Foundations |
+| ![AWS_CF](https://img.shields.io/badge/_-AWS_Academy_Cloud_Foundations-t?style=flat&logo=amazonwebservices&logoColor=orange&labelColor=black&color=black&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2F8ac732aa-f26a-44cb-b176-bebfe1552e31%2Fpublic_url) | AWS Academy Cloud Foundations |
