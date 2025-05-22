@@ -22,7 +22,7 @@ Conecte-se Comigo!
 
 ---
 
-##Tech Stack 👑 
+## Tech Stack 👑 
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=arduino,c,azure,debian,github,discord,linux,windows,instagram,grafana,gmail,aws,git">
@@ -54,3 +54,11 @@ Conecte-se Comigo!
     <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">
 </p>
+
+
+## Certificações 👑
+
+| Certificação | Nome |
+| --- | --- |
+| ![CCNA INT](https://img.shields.io/badge/CISCO_Introduction_To_Networks-t?style=flat&logo=cisco&color=black) | Cisco NetAcademy Introduction To Networks |
+| ![AWS_CF](https://img.shields.io/badge/_-AWS_Academy_Cloud_Foundations-t?style=flat&logo=amazonwebservices&logoColor=orange&labelColor=black&color=black) | AWS Academy Cloud Foundations |
