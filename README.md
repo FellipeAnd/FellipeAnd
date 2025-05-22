@@ -56,7 +56,7 @@ Conecte-se Comigo!
 </p>
 
 
-## Certificações 👑
+## Certificações 📋
 
 | Certificação | Nome |
 | --- | --- |
@@ -65,3 +65,29 @@ Conecte-se Comigo!
 | ![AZURE_CF](https://img.shields.io/badge/SENAI-_Microsoft_Azure_AZ%20900-t?style=flat&labelColor=%23B22222&color=white) | SENAI Microsoft Azure AZ-900 |
 | ![AZURE_CF](https://img.shields.io/badge/SENAI-_Microsoft_Azure_SC%20900-t?style=flat&labelColor=%23B22222&color=white) | SENAI Microsoft Azure SC-900 |
 | ![AZURE_CF](https://img.shields.io/badge/SENAI-_Microsoft_Azure_AI%20900-t?style=flat&labelColor=%23B22222&color=white) | SENAI Microsoft Azure AI-900 |
+
+---
+
+## Conquistas 🥇
+
+- Sou Pianista (Música Clássica e da igreja).
+- Casa IOT.
+- Curso preparatório para o AWS Cloud Fundations, AZ 900, SC 900, AI 900.
+- Curso Técnico de Redes.
+
+## Projetos 🚀
+
+- Casa inteligente voltada aos PCDs (SmartHome Sensations)
+- Monitoriamento On-primeses com o uso de Zabbix & Grafana (NeoAlphs)
+- Cabeamento estruturado baseado em empresas reais (SENAI)
+- Insfraestrutura em nuvem utilizando AWS e Azure (CommerCloud)
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=FellipeAnd&theme=buefy-dark&hide_border=true&short_numbers=true&exclude_days=Sun%2CSat">
+</p>
+
+## Conecte-se Comigo! 🔗
+
+<p> align="center">
+    <a href="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
+</p>
