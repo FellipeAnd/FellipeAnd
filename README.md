@@ -7,6 +7,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=25&duration=2000&pause=3000&color=D99EF7&width=435&lines=Cloud+Engineer+%7C+Cisco+Engineer">
 </p>
 
+##
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/FellipeAnd/FellipeAnd/output/snake.svg" alt="Snake animation" />
+
 ## sobre mim
 
 <img align="right" height="190" src="https://i.pinimg.com/originals/5a/8a/07/5a8a07e241c0e493055c029ff144dcd2.gif">
