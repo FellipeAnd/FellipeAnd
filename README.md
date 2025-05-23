@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=25&duration=2000&pause=3000&color=D99EF7&width=435&lines=Cloud+Engineer+%7C+Cisco+Engineer">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=25&duration=2000&pause=3000&color=D09EF7&center=true&width=435&lines=Cloud+Engineer+%7C+Cisco+Engineer">
 </p>
 
 ##
