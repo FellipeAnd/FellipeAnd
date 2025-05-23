@@ -91,6 +91,8 @@ Conecte-se Comigo!
 - Cabeamento estruturado baseado em empresas reais (SENAI)
 - Insfraestrutura em nuvem utilizando AWS e Azure (CommerCloud)
 
+---
+
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=FellipeAnd&theme=buefy-dark&hide_border=true&short_numbers=true&exclude_days=Sun%2CSat">
 </p>
