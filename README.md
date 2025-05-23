@@ -7,11 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=25&duration=2000&pause=3000&color=D09EF7&center=true&width=435&lines=Cloud+Engineer+%7C+Cisco+Engineer">
 </p>
 
-##
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/FellipeAnd/FellipeAnd/output/snake.svg" alt="Snake animation" />
 
 ## sobre mim
 
@@ -90,6 +85,14 @@ Conecte-se Comigo!
 - Monitoriamento On-primeses com o uso de Zabbix & Grafana (NeoAlphs)
 - Cabeamento estruturado baseado em empresas reais (SENAI)
 - Insfraestrutura em nuvem utilizando AWS e Azure (CommerCloud)
+
+---
+
+##
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/FellipeAnd/FellipeAnd/output/snake.svg" alt="Snake animation" />
 
 ---
 
