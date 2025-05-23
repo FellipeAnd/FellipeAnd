@@ -76,6 +76,7 @@ Conecte-se Comigo!
 - Casa IOT.
 - Curso preparatório para o AWS Cloud Fundations, AZ 900, SC 900, AI 900.
 - Curso Técnico de Redes.
+- Eleito Aluno mais estudioso no fundamental
 
 ---
 
