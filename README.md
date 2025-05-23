@@ -74,12 +74,15 @@ Conecte-se Comigo!
 
 ---
 
+
 ## Conquistas 🥇
 
 - Sou Pianista (Música Clássica e da igreja).
 - Casa IOT.
 - Curso preparatório para o AWS Cloud Fundations, AZ 900, SC 900, AI 900.
 - Curso Técnico de Redes.
+
+---
 
 ## Projetos 🚀
 
@@ -92,6 +95,7 @@ Conecte-se Comigo!
     <img src="https://github-readme-streak-stats.herokuapp.com?user=FellipeAnd&theme=buefy-dark&hide_border=true&short_numbers=true&exclude_days=Sun%2CSat">
 </p>
 
+---
 ## Conecte-se Comigo! 🔗
 
 <p align="center">
