@@ -19,7 +19,7 @@ Conecte-se Comigo!
 
 <br><br><br>
 
-**"Mesmo nas profundezas dos oceanos mais escuros sempre passa alguma luz." - Arima💡**
+**"Se estiver se sentindo desmotivado ou sentindo que não é bom o suficiente, incendeie o seu coração" - Kyojuro Rengpku❤️‍🔥**
 
 ---
 
