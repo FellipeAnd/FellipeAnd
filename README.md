@@ -10,7 +10,7 @@
 
 ## sobre mim
 
-<img align="right" height="190" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F969610994746346511%2F&psig=AOvVaw1sfIl4Rz2Iks72ONx_VKbg&ust=1759605836230000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDhttngiJADFQAAAAAdAAAAABAE">
+<img align="right" height="190" src="https://i.pinimg.com/originals/9e/a7/c3/9ea7c37566fa5d5ec0bb87e6d50a6e20.gif">
 
 Cursando o quarto semestre de Redes de Computadores no SENAI com foco em Cloud, além disso,
 possuo experiência prática com nuvem AWS e Azure.
