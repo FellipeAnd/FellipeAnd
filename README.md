@@ -19,7 +19,7 @@ Conecte-se Comigo!
 
 <br><br><br>
 
-**"Se estiver se sentindo desmotivado ou sentindo que não é bom o suficiente, incendeie o seu coração" - Kyojuro Rengpku❤️‍🔥**
+**"Se estiver se sentindo desmotivado ou sentindo que não é bom o suficiente, incendeie o seu coração" - Kyojuro Rengoku❤️‍🔥**
 
 ---
 
